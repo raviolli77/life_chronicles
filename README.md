@@ -29,3 +29,11 @@ Arthur will be helping out with the desired tools and will be overseeing a lot o
 + git: for team collaboration, will most likely use [bitbucket](https://bitbucket.org) for repository 
 + [React Native](https://facebook.github.io/react-native/)
 + [Expo](https://expo.io/)
+
+More will be discussed as well with Arthur as the project roadmap begins!
+
+## Apply
+
+You can apply [here](https://goo.gl/forms/Hr0kRFjU8kCh2D903). We will keep applications open until **Oct. 30th**. 
+
+If you have any questions please ask me or Arthur!
